@@ -1,0 +1,17 @@
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.csproj.AssemblyReference.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.AssemblyInfoInputs.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.AssemblyInfo.cs
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.csproj.CoreCompileInputs.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Application.deps.json
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Application.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Application.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Domain.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Infrastructure.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Infrastructure.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\bin\Debug\net6.0\Organiza.Domain.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.csproj.CopyComplete
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\refint\Organiza.Application.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\Organiza.Application.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Application\obj\Debug\net6.0\ref\Organiza.Application.dll

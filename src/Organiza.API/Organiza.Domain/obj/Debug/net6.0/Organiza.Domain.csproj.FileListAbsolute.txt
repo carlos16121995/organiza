@@ -1,0 +1,12 @@
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.csproj.AssemblyReference.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.AssemblyInfoInputs.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.AssemblyInfo.cs
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\bin\Debug\net6.0\Organiza.Domain.deps.json
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\bin\Debug\net6.0\Organiza.Domain.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\bin\Debug\net6.0\Organiza.Domain.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\refint\Organiza.Domain.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\Organiza.Domain.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Domain\obj\Debug\net6.0\ref\Organiza.Domain.dll

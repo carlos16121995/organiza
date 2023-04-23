@@ -1,0 +1,15 @@
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.AssemblyInfo.cs
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\bin\Debug\net6.0\Organiza.Infrastructure.deps.json
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\bin\Debug\net6.0\Organiza.Infrastructure.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\bin\Debug\net6.0\Organiza.Infrastructure.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\bin\Debug\net6.0\Organiza.Domain.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\bin\Debug\net6.0\Organiza.Domain.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.csproj.CopyComplete
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\refint\Organiza.Infrastructure.dll
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\Organiza.Infrastructure.pdb
+C:\Users\carlos.alcantara\source\repos\estudo\organiza\src\Organiza.API\Organiza.Infrastructure\obj\Debug\net6.0\ref\Organiza.Infrastructure.dll
